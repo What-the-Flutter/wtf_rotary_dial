@@ -1,0 +1,19 @@
+name: wtf_rotary_dial
+description: The widget allows you to enter numbers by rotating the spinner of the rotary dial.
+version: 0.1.0
+license: MIT
+homepage: https://pub.dev/packages/wtf_rotary_dial
+repository: https://github.com/flutterwtf/wtf_rotary_dial
+
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
